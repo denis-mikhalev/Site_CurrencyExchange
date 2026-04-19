@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+
+# App_Data (local DB files)
+CurrencyExchange/CurrencyExchange/App_Data/*.mdf
+CurrencyExchange/CurrencyExchange/App_Data/*.ldf
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
