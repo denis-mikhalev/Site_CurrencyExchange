@@ -1,5 +1,12 @@
 # Currency Exchange — Online Order Form
 
+![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.7.2-512BD4?logo=dotnet)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5-blue)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-6-orange)
+![C#](https://img.shields.io/badge/C%23-language-239120?logo=csharp&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-3-7952B3?logo=bootstrap&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-LocalDB-CC2927?logo=microsoftsqlserver&logoColor=white)
+
 A training ASP.NET MVC web application simulating an online currency exchange service. The app fetches live exchange rates from the Central Bank of Russia (CBR), applies a bank margin, and lets a user submit a currency exchange order through a multi-step form.
 
 ---
