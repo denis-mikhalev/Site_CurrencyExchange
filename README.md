@@ -8,7 +8,9 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-LocalDB-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-A training ASP.NET MVC web application simulating an online currency exchange service. The app fetches live exchange rates from the Central Bank of Russia (CBR), applies a bank margin, and lets a user submit a currency exchange order through a multi-step form.
+A training ASP.NET MVC web application simulating an online currency exchange service.
+
+![App Screenshot](assets/screenshot.png) The app fetches live exchange rates from the Central Bank of Russia (CBR), applies a bank margin, and lets a user submit a currency exchange order through a multi-step form.
 
 ---
 
